@@ -163,7 +163,7 @@ margin-bottom: 70px;
 
 .main_button {
     max-width: 998px;
-    height: 450px;
+    min-height: 450px;
     display: flex;
     align-items: center;
     justify-content: space-between;
