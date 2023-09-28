@@ -65,11 +65,11 @@ a {
   left: 20px;
 }
 .whotsapp {
-  width: 70px;
-  height: 70px;
-  position: relative;
-  top: 123px;
-  right: 107px;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: 123px;
+    right: 107px;
 }
 .navigation ul {
   /* background: rgba(255, 255, 255, 0.04);
@@ -128,8 +128,8 @@ nav::before {
 }
 
 .main_info {
-  /* width: 700px;
-    height: 500px;*/
+   max-width: 700px;
+    min-height: 500px;
 }
 
 .main_info h1 {
@@ -357,7 +357,7 @@ nav::before {
     margin-bottom: 8px;
   }
 
-  .main_about {
+ .main_about {
     display: flex;
     gap: 79px;
     justify-content: space-around;
